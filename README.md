@@ -4,7 +4,7 @@ This is the final project for the Intro to Data Science course at George Washing
 
 The goal of the project is to develop a model that predicts Capital City Bikeshare ridership.
 
-My group and I implemented and evaluated three predictions models:  Multivariate Linear Regression, Decision Tree, and Random Forrest.
+My group and I implemented and evaluated three predictions models:  Multiple Linear Regression, Decision Tree Regression, and Random Forrest Regression.
 
 The project covers:
 
